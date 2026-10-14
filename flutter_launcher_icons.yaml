@@ -1,0 +1,4 @@
+flutter_launcher_icons:
+  android: "yes"
+  ios: "yes"
+  image_path: "lib/assets/chef_icon.png"
